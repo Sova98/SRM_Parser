@@ -1,14 +1,6 @@
 *.iml
-/.gradle
 /local.properties
-/.idea
 .DS_Store
 /build
 /captures
 .externalNativeBuild
-build.gradle
-gradle.properties
-gradlew
-gradlew.bat
-gradle/wrapper/gradle-wrapper.jar
-gradle/wrapper/gradle-wrapper.properties
